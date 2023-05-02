@@ -1,0 +1,3 @@
+http://localhost:5250
+http://localhost:5250/index.html
+http://localhost:5250/ListaClientes
